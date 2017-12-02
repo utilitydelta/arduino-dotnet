@@ -1,2 +1,2 @@
 # arduino-dotnet
-Various examples using .NET and Arduino
+A .NET app reading data from an Arduino board, connected via USB.
